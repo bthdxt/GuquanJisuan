@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "GuquanForm/1.0.0": {
+        "dependencies": {
+          "GuquanJisuan": "1.0.0"
+        },
+        "runtime": {
+          "GuquanForm.dll": {}
+        }
+      },
+      "GuquanJisuan/1.0.0": {
+        "runtime": {
+          "GuquanJisuan.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GuquanForm/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GuquanJisuan/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

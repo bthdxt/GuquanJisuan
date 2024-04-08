@@ -1,0 +1,15 @@
+D:\Yuki\VS\GuquanJisuan\GuquanJisuan\bin\Debug\net7.0\GuquanJisuan.exe
+D:\Yuki\VS\GuquanJisuan\GuquanJisuan\bin\Debug\net7.0\GuquanJisuan.deps.json
+D:\Yuki\VS\GuquanJisuan\GuquanJisuan\bin\Debug\net7.0\GuquanJisuan.runtimeconfig.json
+D:\Yuki\VS\GuquanJisuan\GuquanJisuan\bin\Debug\net7.0\GuquanJisuan.dll
+D:\Yuki\VS\GuquanJisuan\GuquanJisuan\bin\Debug\net7.0\GuquanJisuan.pdb
+D:\Yuki\VS\GuquanJisuan\GuquanJisuan\obj\Debug\net7.0\GuquanJisuan.csproj.AssemblyReference.cache
+D:\Yuki\VS\GuquanJisuan\GuquanJisuan\obj\Debug\net7.0\GuquanJisuan.GeneratedMSBuildEditorConfig.editorconfig
+D:\Yuki\VS\GuquanJisuan\GuquanJisuan\obj\Debug\net7.0\GuquanJisuan.AssemblyInfoInputs.cache
+D:\Yuki\VS\GuquanJisuan\GuquanJisuan\obj\Debug\net7.0\GuquanJisuan.AssemblyInfo.cs
+D:\Yuki\VS\GuquanJisuan\GuquanJisuan\obj\Debug\net7.0\GuquanJisuan.csproj.CoreCompileInputs.cache
+D:\Yuki\VS\GuquanJisuan\GuquanJisuan\obj\Debug\net7.0\GuquanJisuan.dll
+D:\Yuki\VS\GuquanJisuan\GuquanJisuan\obj\Debug\net7.0\refint\GuquanJisuan.dll
+D:\Yuki\VS\GuquanJisuan\GuquanJisuan\obj\Debug\net7.0\GuquanJisuan.pdb
+D:\Yuki\VS\GuquanJisuan\GuquanJisuan\obj\Debug\net7.0\GuquanJisuan.genruntimeconfig.cache
+D:\Yuki\VS\GuquanJisuan\GuquanJisuan\obj\Debug\net7.0\ref\GuquanJisuan.dll
